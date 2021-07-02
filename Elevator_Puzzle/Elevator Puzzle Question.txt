@@ -1,7 +1,0 @@
-Elevator Puzzle:
-
-(This problem featured in the October 2020 issue of the Mensa Bulletin)
-
-Consider an elevator with 100 floors (the ground floor is Floor 1).  There is one elevator in the building with two buttons, one for Up and the other for Down.  The Up button takes you exactly seven floors up and the Down button takes you exactly nine floors down.  No other movement is possible.  Is it possible to reach every floor?  Which floor requires the greatest number of button presses to reach, starting from Floor 1?
-
-Now consider the general case.  The building has N floors.  One button goes up A floors and another button goes down B floors.  What are the conditions required for every floor to be reachable from every other floor?  Which floor requires the greatest number of button presses to reach starting from Floor 1?
