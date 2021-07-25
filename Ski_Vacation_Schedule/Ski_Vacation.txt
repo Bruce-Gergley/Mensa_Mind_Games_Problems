@@ -1,0 +1,21 @@
+Skier Schedule
+
+(This problem appeared in the June 2021 issue of the Mensa Bulletin)
+
+Debbie and her three friends each belong to a different ski club -- the Chiefs, the Nurses, the Seniors, ad the Teachers. Each club organized a ski trip to a different European country: Austria, France, Germany, and Switzerland. Two clubs were traveling on March 5. One club was traveling on March 8. The last club was traveling on March 10.
+
+From the following clues, determine who belonged to each club, the travel destination of each club, and the travel date of each club.
+
+1. The four friends are Amanda, Carol, a member of the Chiefs, and a woman who is going to Germany.
+
+2. The Nurses are not traveling on March 10.
+
+3. The Nurses and the Teachers travel on different dates.
+
+4. The Chiefs and Seniors are not traveling on March 10.
+
+5. Amanda and Belinda are not traveling on March 10.
+
+6. Belinda is not going to France.
+
+7. Neither the Seniors nor the club that is going to Austria are traveling on March 5.
