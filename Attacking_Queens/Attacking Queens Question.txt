@@ -1,0 +1,5 @@
+Attacking Queens Puzzle
+
+(This problem featured in the June 2021 issue of the Mensa Bulletin)
+
+What is the minimum number of queens needed to occupy or attack every square on a chessboard?  A square is attacked if it is in the same row, column, or diagonal as a queen.
