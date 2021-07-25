@@ -2,7 +2,9 @@ Skier Schedule
 
 (This problem appeared in the June 2021 issue of the Mensa Bulletin)
 
-Debbie and her three friends each belong to a different ski club -- the Chiefs, the Nurses, the Seniors, ad the Teachers. Each club organized a ski trip to a different European country: Austria, France, Germany, and Switzerland. Two clubs were traveling on March 5. One club was traveling on March 8. The last club was traveling on March 10.
+Debbie and her three friends each belong to a different ski club -- the Chiefs, the Nurses, the Seniors, ad the Teachers. Each club organized a ski trip to a 
+different European country: Austria, France, Germany, and Switzerland. Two clubs were traveling on March 5. One club was traveling on March 8. The last club was 
+traveling on March 10.
 
 From the following clues, determine who belonged to each club, the travel destination of each club, and the travel date of each club.
 
